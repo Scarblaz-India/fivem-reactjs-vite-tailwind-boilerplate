@@ -1,4 +1,4 @@
-const RESOURCE_NAME = window.invokeNative ? GetCurrentResourceName() : "nui_dev"; // Fallback for dev environment
+const RESOURCE_NAME = window.invokeNative ? GetParentResourceName() : "nui_dev"; // Fallback for dev environment
 
 /**
  * Sends a message to the client via fetch API
