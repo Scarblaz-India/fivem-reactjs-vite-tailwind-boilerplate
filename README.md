@@ -12,7 +12,5 @@ This template is framework-agnostic and works seamlessly with both **Lua** and *
 - 🔄 Hot Module Replacement (HMR) for fast iteration
 - 🧩 Ready to integrate with Lua or C# NUI callbacks
 
----
-
-## 📁 Folder Structure
-
+## Support
+- Join [Discord](https://discord.gg/vnBkP4xYRv)
